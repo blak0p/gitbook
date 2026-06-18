@@ -4,7 +4,7 @@
 
 Soy Alejandro, también conocido como blak0p. dessarrollador backend, especializado en arquitectura de sistemas, desarrollo backend con Go y frontend con TypeScript. Me apasiona construir software que sea mantenible, testeable y que realmente resuelva problemas.
 
-Este espacio es mi documentación pública. Acá comparto lo que fui aprendiendo: decisiones de arquitectura, patrones que funcionan, errores que cometí para que no los cometas vos, y cómo trabajo con inteligencia artificial en el día a día.
+Este espacio es mi documentación pública. Acá comparto lo que fui aprendiendo: decisiones de arquitectura, patrones que funcionan, errores que cometí para que no los cometas tu, y cómo trabajo con inteligencia artificial en el día a día.
 
 ---
 
