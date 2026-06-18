@@ -27,3 +27,7 @@ func NewUser(name string) (User, error) {
 ```
 
 Cada paquete de dominio es chico. Si `domain/` pasa de 3-4 archivos, dividí por concepto.
+
+---
+
+**Relacionado**: [Puertos](puertos) | [Adaptadores](adaptadores) | [Arquitectura Hexagonal](index)

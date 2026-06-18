@@ -4,8 +4,8 @@ Referencias, gotchas, footguns y convenciones organizadas por lenguaje. Esto es 
 
 ## Lenguajes
 
-- **Go** — Convenciones, arquitectura hexagonal, testing, gotchas comunes
-- **TypeScript** — Patrones, pitfalls, configuración de proyectos
+- [Go](go/index) — Convenciones, arquitectura hexagonal, testing, gotchas comunes
+- [TypeScript](typescript/index) — Patrones, pitfalls, configuración de proyectos
 
 ---
 

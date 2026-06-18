@@ -45,3 +45,7 @@ En interfaces de usuario, si una pestaña no puede cargar su contenido, no rompa
 ## Ya que Estamos No Es Justificación
 
 "No es justificación para meter funcionalidad extra en un cambio. Si estás tocando un archivo y ves algo que podrías mejorar, preguntate: ¿esto es parte del cambio o es scope creep? Si es scope creep, anotalo para después y segui con lo tuyo."
+
+---
+
+**Relacionado**: [Testing (Hexagonal)](../arquitectura/hexagonal/testing) | [Componentes](componentes) | [Patrones](index)

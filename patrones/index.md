@@ -4,9 +4,9 @@ Soluciones recurrentes para problemas técnicos específicos. A diferencia de la
 
 ## Secciones
 
-- **Adaptadores y Sincronización** — Concurrencia, canales, adaptadores robustos, sidecars
-- **Componentes y Documentación** — Carga diferida, testing, co-location de esquemas
-- **Testing** — Patrones de testing por capa y estrategias de verificación
+- [Adaptadores y Sincronización](adaptadores-sincronizacion) — Concurrencia, canales, adaptadores robustos, sidecars
+- [Componentes y Documentación](componentes) — Carga diferida, testing, co-location de esquemas
+- [Testing](testing) — Patrones de testing por capa y estrategias de verificación
 
 ---
 
@@ -14,5 +14,5 @@ Soluciones recurrentes para problemas técnicos específicos. A diferencia de la
 
 | Pregunta | Respuesta |
 |----------|-----------|
-| ¿Es una forma de organizar el código? | → Patrón |
-| ¿Es una decisión de diseño con trade-offs? | → Estrategias |
+| ¿Es una forma de organizar el código? | → [Patrón](index) |
+| ¿Es una decisión de diseño con trade-offs? | → [Estrategias](../estrategias/index) |

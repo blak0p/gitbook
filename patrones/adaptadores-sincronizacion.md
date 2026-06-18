@@ -40,3 +40,7 @@ Cuando varios handlers necesitan el mismo recurso (un cliente HTTP, una conexió
 - Duplicación de configuración
 - Conexiones múltiples innecesarias
 - Inconsistencias en timeouts y retries
+
+---
+
+**Relacionado**: [Adaptadores (Hexagonal)](../arquitectura/hexagonal/adaptadores) | [Runtime y Persistencia](../estrategias/runtime-persistencia) | [Patrones](index)

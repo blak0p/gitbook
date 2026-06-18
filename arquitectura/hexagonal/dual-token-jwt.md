@@ -38,3 +38,7 @@ El refresh token es de **un solo uso** — cada vez que se usa, se rota por uno 
 - ❌ Cuando necesites social login o federación — ahí ya necesitás OAuth2
 - ❌ Cuando el frontend y backend estén en dominios separados sin proxy
 - ❌ Cuando tengas una API pública que usen terceros — ellos no pueden mandar cookies
+
+---
+
+**Relacionado**: [Autorización por Jerarquía de Roles](jerarquia-roles) | [Arquitectura Hexagonal](index)

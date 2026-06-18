@@ -47,3 +47,7 @@ func (a *execAdapter) Stage(paths []string) error {
 - El dominio no debería importar `database/sql`, `os/exec`, `net/http`
 - Los errores técnicos crudos son ruido para la lógica de negocio
 - Si cambiás de Postgres a SQLite, solo cambiás el adapter; el dominio no se entera
+
+---
+
+**Relacionado**: [Puertos](puertos) | [Dominio](dominio) | [Arquitectura Hexagonal](index) | [Adaptadores y Sincronización](../../patrones/adaptadores-sincronizacion)

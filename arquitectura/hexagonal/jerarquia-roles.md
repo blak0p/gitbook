@@ -94,3 +94,7 @@ func TestRole_AtLeast(t *testing.T) {
 ```
 
 Cualquier cambio en la jerarquía rompe un test. Eso es exactamente lo que querés.
+
+---
+
+**Relacionado**: [Dual-Token JWT con HttpOnly Cookie](dual-token-jwt) | [Arquitectura Hexagonal](index) | [Testing](testing)

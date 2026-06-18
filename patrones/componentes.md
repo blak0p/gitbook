@@ -35,3 +35,7 @@ Cuando un componente opcional no está disponible, el sistema sigue funcionando 
 ## Pestanas con Degradación Graciosa
 
 En UIs con pestañas, si una pestaña falla al cargar, mostrá un error localizado en esa pestaña. No rompas toda la página ni bloquees las otras pestañas.
+
+---
+
+**Relacionado**: [Testing](testing) | [Patrones](index)

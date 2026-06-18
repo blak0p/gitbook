@@ -29,3 +29,7 @@ Para clasificaciones críticas (¿esto rompe la API? ¿esto necesita approval?),
 ## Refinamientos Post-Heurística
 
 La heurística inicial es un filtro grueso. Después de la clasificación automática, siempre debería haber un refinamiento humano o semiautomático que ajuste los casos frontera.
+
+---
+
+**Relacionado**: [Estructura e Impacto](estructura-impacto) | [Estrategias](index)

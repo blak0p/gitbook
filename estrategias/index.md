@@ -4,10 +4,11 @@ Las estrategias son patrones de decisión — no código, sino el **por qué** d
 
 ## Secciones
 
-- **Interfaces LLM** — Diseño de herramientas MCP, granularidad, higiene de contexto
-- **Clasificación y Heurística** — Lógica de decisión, pesos de impacto, taxonomía de cambios
-- **Estructura e Impacto** — Mantenibilidad, acoplamiento, análisis de impacto arquitectónico
-- **Runtime y Persistencia** — Optimización de ejecución, locks, sidecars, pipelines
+- [Interfaces LLM](interfaces-llm) — Diseño de herramientas MCP, granularidad, higiene de contexto
+- [Clasificación y Heurística](clasificacion) — Lógica de decisión, pesos de impacto, taxonomía de cambios
+- [Estructura e Impacto](estructura-impacto) — Mantenibilidad, acoplamiento, análisis de impacto arquitectónico
+- [Runtime y Persistencia](runtime-persistencia) — Optimización de ejecución, locks, sidecars, pipelines
+- [Chained PRs](chained-prs) — PRs encadenados con feature branch chain
 
 ---
 
@@ -15,6 +16,6 @@ Las estrategias son patrones de decisión — no código, sino el **por qué** d
 
 | Pregunta | Respuesta |
 |----------|-----------|
-| ¿Es una decisión con alternativas? | → Estrategia |
-| ¿Es un principio estructural? | → Arquitectura |
-| ¿Es un patrón de implementación? | → Patrones |
+| ¿Es una decisión con alternativas? | → [Estrategia](index) |
+| ¿Es un principio estructural? | → [Arquitectura](../arquitectura/index) |
+| ¿Es un patrón de implementación? | → [Patrones](../patrones/index) |

@@ -40,3 +40,7 @@ Cada PR se mergea directamente a main en orden. Más rápido, pero sin rollback 
 - Los cambios son independientes (no comparten estado)
 - Necesitás iterar rápido
 - El equipo es chico y los merges son frecuentes
+
+---
+
+**Relacionado**: [Runtime y Persistencia](runtime-persistencia) | [Estrategias](index)

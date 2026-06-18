@@ -83,3 +83,7 @@ function parse(data: unknown): string {
 - **Barrels**: `index.ts` exporta solo la API pública del módulo
 - **Config**: tipada con `as const` o `satisfies`, no `any`
 - **Tests**: Vitest o Jest, co-located con el código
+
+---
+
+**Relacionado**: [Arquitectura Hexagonal](../../arquitectura/hexagonal/index) | [Go](../go/index) | [Lenguajes](../index)

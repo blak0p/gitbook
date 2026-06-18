@@ -62,3 +62,7 @@ Para tests que involucran LLMs o sistemas complejos, el reporte debe permitir au
 3. **Latencia**: ¿Cuánto tiempo tardó?
 
 Si no sabemos qué entró y qué salió, no estamos evaluando; estamos adivinando.
+
+---
+
+**Relacionado**: [Patrones de Testing](../../patrones/testing) | [Arquitectura Hexagonal](index)

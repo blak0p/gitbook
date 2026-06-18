@@ -36,3 +36,7 @@ Antes de hacer operaciones complejas con Git, tomá un snapshot del estado actua
 5. **Hook que falla**: un hook de git (pre-commit, pre-push) falla pero el pipeline no lo captura
 
 Cada una de estas fallas debería tener un chequeo explícito en el pipeline, no un catch genérico.
+
+---
+
+**Relacionado**: [Chained PRs](chained-prs) | [Adaptadores y Sincronización](../patrones/adaptadores-sincronizacion) | [Estrategias](index)

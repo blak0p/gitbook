@@ -33,3 +33,7 @@ Los errores son parte del contrato entre capas. Cada capa tiene responsabilidade
 - **Adapter**: traducción de errores técnicos a errores de dominio en la frontera
 
 Un error de infraestructura crudo (`sql.ErrNoRows`, `os.PathError`) nunca debería llegar al dominio.
+
+---
+
+**Relacionado**: [Arquitectura Hexagonal](../arquitectura/hexagonal/index) | [Adaptadores](../arquitectura/hexagonal/adaptadores) | [Estrategias](index)

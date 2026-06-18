@@ -25,3 +25,7 @@ Agrupar código no por capa técnica, sino por **afinidad en el pipeline de ejec
 | Empaquetado dinámico | Se adapta al cambio | Complejidad cognitiva |
 
 **Regla personal**: un archivo no debería pasar de ~600 líneas. Si lo hace, hay que partirlo. Un archivo = una responsabilidad clara. Si el nombre no alcanza para describirlo, está haciendo demasiado.
+
+---
+
+**Relacionado**: [Arquitectura Hexagonal](hexagonal/index) | [Estructura e Impacto](../estrategias/estructura-impacto) | [Arquitectura](index)

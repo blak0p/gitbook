@@ -10,10 +10,10 @@ Este espacio es mi documentación pública: principios de arquitectura, estrateg
 
 ## Navegación
 
-- **Arquitectura** — Principios, leyes y estructura de sistemas
-- **Estrategias** — Decisiones con trade-offs y razonamiento funcional
-- **Patrones** — Implementaciones concretas y soluciones recurrentes
-- **Lenguajes** — Referencias, gotchas y convenciones por lenguaje
+- [Arquitectura](arquitectura/index) — Principios, leyes y estructura de sistemas
+- [Estrategias](estrategias/index) — Decisiones con trade-offs y razonamiento funcional
+- [Patrones](patrones/index) — Implementaciones concretas y soluciones recurrentes
+- [Lenguajes](lenguajes/index) — Referencias, gotchas y convenciones por lenguaje
 
 ---
 

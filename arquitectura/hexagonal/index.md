@@ -83,3 +83,5 @@ Los errores siguen un contrato de tres capas:
 - [Estrategia de testing](hexagonal/testing)
 - [Dual-Token JWT con HttpOnly Cookie](hexagonal/dual-token-jwt)
 - [Autorización por Jerarquía de Roles](hexagonal/jerarquia-roles)
+
+**Cross-section**: [Estructura e Impacto](../../estrategias/estructura-impacto) | [Patrones de Testing](../../patrones/testing) | [Go](../../lenguajes/go/index)

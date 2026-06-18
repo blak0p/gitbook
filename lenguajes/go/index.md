@@ -84,3 +84,7 @@ var w io.Writer = r     // w NO es nil — tiene type info
 - **Errores**: `var ErrXxx = errors.New("xxx")` para centinelas, `fmt.Errorf("context: %w", err)` para wrapping
 - **Logger como puerto**: `ports.Logger` con nivel y estructura. No log global
 - **Config en struct tipado**: nada de maps mágicos. Validar en construcción
+
+---
+
+**Relacionado**: [Arquitectura Hexagonal](../../arquitectura/hexagonal/index) | [TypeScript](../typescript/index) | [Lenguajes](../index)

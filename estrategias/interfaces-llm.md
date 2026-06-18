@@ -33,3 +33,7 @@ Si el LLM trabaja naturalmente con markdown o texto estructurado, no lo forcés 
 - **Promesas Rotas**: si una herramienta promete hacer algo y no lo cumple, el LLM pierde confianza y empieza a hacer workarounds. Cada herramienta debe hacer exactamente lo que su descripción dice.
 - **Safety Gates**: validación centralizada antes de ejecutar operaciones destructivas. Un safety gate no es un filtro de permisos — es una confirmación explícita de que el LLM entiende lo que va a hacer.
 - **Zero Regression con Default Vacío**: cuando una herramienta devuelve una lista vacía por defecto, el LLM aprende que "no hay resultados" es un caso válido y no un error. Esto evita falsos positivos en la detección de problemas.
+
+---
+
+**Relacionado**: [Estructura e Impacto](estructura-impacto) | [Runtime y Persistencia](runtime-persistencia) | [Estrategias](index)
