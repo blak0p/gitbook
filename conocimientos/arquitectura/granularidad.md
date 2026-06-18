@@ -2,7 +2,7 @@
 
 ## El problema
 
-Una de las decisiones más difíciles y menos discutidas en arquitectura es cómo partir el código. ¿Un archivo gigante o muchos archivos chicos? ¿Todo en un paquete o separado por capas? ¿Agrupo por funcionalidad o por tipo de archivo?
+Una de las decisiones más difíciles y menos discutidas en arquitectura es cómo partir el código. ¿Un archivo gigante o muchos archivos pequeños? ¿Todo en un paquete o separado por capas? ¿Agrupo por funcionalidad o por tipo de archivo?
 
 La respuesta no es única, pero hay principios que ayudan.
 
