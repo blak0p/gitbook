@@ -10,9 +10,8 @@ Este espacio es mi documentación pública. Acá comparto lo que fui aprendiendo
 
 ## Lo que vas a encontrar
 
-- **Proyectos** — Las cosas que construí y cómo las pensé
-- **Conocimientos** — Lo que aprendí y quiero compartir, explicado desde el por qué
-- **Trabajar con IA** — Cómo integrar IA en el desarrollo sin perder el control
+- [Conocimientos](conocimientos/index) — Lo que aprendí y quiero compartir, explicado desde el por qué
+- [Trabajar con IA](trabajar-con-ia/index) — Cómo integrar IA en el desarrollo sin perder el control
 
 ---
 
