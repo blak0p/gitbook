@@ -33,4 +33,4 @@ El ciclo es el mismo que TDD clásico, pero con IA:
 
 ---
 
-**Relacionado**: [SDD](sdd) | [Testing de Calidad](../conocimientos/testing/testing-de-calidad) | [Trabajar con IA](index)
+**Relacionado**: [SDD](sdd.md) | [Testing de Calidad](../conocimientos/testing/testing-de-calidad) | [Trabajar con IA](index.md)

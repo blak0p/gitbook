@@ -66,4 +66,4 @@ Los features no se conocen entre sí. Si necesito coordinar varios, lo hago desd
 
 ---
 
-**Relacionado**: [Granularidad](granularidad) | [Contrato de Errores](contrato-errores) | [Testing de Calidad](../testing/testing-de-calidad) | [Conocimientos](../index)
+**Relacionado**: [Granularidad](granularidad.md) | [Contrato de Errores](contrato-errores.md) | [Testing de Calidad](../testing/testing-de-calidad) | [Conocimientos](../index)

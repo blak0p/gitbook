@@ -31,4 +31,4 @@ Un cambio estructural de 50 líneas merece más atención que uno acotado de 300
 
 ---
 
-**Relacionado**: [Chained PRs](chained-prs) | [Conocimientos](../index)
+**Relacionado**: [Chained PRs](chained-prs.md) | [Conocimientos](../index)

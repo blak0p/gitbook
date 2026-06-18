@@ -44,4 +44,4 @@ Cuando varios handlers necesitan el mismo recurso (un cliente HTTP, una conexió
 
 ---
 
-**Relacionado**: [Runtime](runtime) | [Contrato de Errores](../arquitectura/contrato-errores) | [Conocimientos](../index)
+**Relacionado**: [Runtime](runtime.md) | [Contrato de Errores](../arquitectura/contrato-errores) | [Conocimientos](../index)

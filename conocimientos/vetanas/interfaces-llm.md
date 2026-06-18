@@ -33,4 +33,4 @@ El LLM es un desarrollador junior muy poderoso pero con poca experiencia. Necesi
 
 ---
 
-**Relacionado**: [Adaptadores](adaptadores) | [Herramientas MCP](../../trabajar-con-ia/herramientas-mcp) | [Conocimientos](../index)
+**Relacionado**: [Adaptadores](adaptadores.md) | [Herramientas MCP](../../trabajar-con-ia/herramientas-mcp) | [Conocimientos](../index)

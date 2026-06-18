@@ -4,9 +4,9 @@ Cómo integrar inteligencia artificial en el desarrollo de software sin perder e
 
 ## Lo que vas a encontrar
 
-- [Spec-Driven Development (SDD)](sdd) — Cómo planificar cambios con IA antes de escribir código
-- [Strict TDD](tdd) — Cómo mantener la disciplina de testing cuando la IA escribe el código
-- [Herramientas MCP](herramientas-mcp) — Cómo conectar la IA con tus herramientas reales
+- [Spec-Driven Development (SDD)](sdd.md) — Cómo planificar cambios con IA antes de escribir código
+- [Strict TDD](tdd.md) — Cómo mantener la disciplina de testing cuando la IA escribe el código
+- [Herramientas MCP](herramientas-mcp.md) — Cómo conectar la IA con tus herramientas reales
 
 ---
 

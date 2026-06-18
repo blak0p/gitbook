@@ -59,4 +59,4 @@ admin.GET("/users", handler.ListUsers)
 
 ---
 
-**Relacionado**: [Dual-Token JWT](dual-token-jwt) | [Testing de Calidad](../testing/testing-de-calidad) | [Conocimientos](../index)
+**Relacionado**: [Dual-Token JWT](dual-token-jwt.md) | [Testing de Calidad](../testing/testing-de-calidad) | [Conocimientos](../index)

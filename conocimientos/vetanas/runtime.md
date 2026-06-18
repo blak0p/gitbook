@@ -51,4 +51,4 @@ Cada una debería tener un chequeo explícito, no un catch genérico.
 
 ---
 
-**Relacionado**: [Adaptadores](adaptadores) | [Chained PRs](../procesos/chained-prs) | [Conocimientos](../index)
+**Relacionado**: [Adaptadores](adaptadores.md) | [Chained PRs](../procesos/chained-prs) | [Conocimientos](../index)

@@ -45,4 +45,4 @@ No hay respuesta correcta. La clave es ser consciente del trade-off y ajustar cu
 
 ---
 
-**Relacionado**: [Arquitectura Hexagonal](hexagonal) | [Conocimientos](../index)
+**Relacionado**: [Arquitectura Hexagonal](hexagonal.md) | [Conocimientos](../index)

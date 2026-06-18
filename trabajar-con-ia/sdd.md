@@ -44,4 +44,4 @@ El flujo típico:
 
 ---
 
-**Relacionado**: [TDD](tdd) | [Herramientas MCP](herramientas-mcp) | [Chained PRs](../conocimientos/procesos/chained-prs) | [Trabajar con IA](index)
+**Relacionado**: [TDD](tdd.md) | [Herramientas MCP](herramientas-mcp.md) | [Chained PRs](../conocimientos/procesos/chained-prs) | [Trabajar con IA](index.md)

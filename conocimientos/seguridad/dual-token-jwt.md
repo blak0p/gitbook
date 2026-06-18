@@ -46,4 +46,4 @@ Pensá en un casino. El access token es la ficha que tenés en la mano mientras 
 
 ---
 
-**Relacionado**: [Jerarquía de Roles](jerarquia-roles) | [Conocimientos](../index)
+**Relacionado**: [Jerarquía de Roles](jerarquia-roles.md) | [Conocimientos](../index)

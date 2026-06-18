@@ -37,4 +37,4 @@ Basado en mi experiencia con git-courer:
 
 ---
 
-**Relacionado**: [SDD](sdd) | [Interfaces para LLMs](../conocimientos/vetanas/interfaces-llm) | [git-courer](../proyectos/git-courer) | [Trabajar con IA](index)
+**Relacionado**: [SDD](sdd.md) | [Interfaces para LLMs](../conocimientos/vetanas/interfaces-llm) | [git-courer](../proyectos/git-courer) | [Trabajar con IA](index.md)

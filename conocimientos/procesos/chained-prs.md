@@ -48,4 +48,4 @@ Cada PR se mergea directamente a main en orden. Más rápido, pero sin rollback 
 
 ---
 
-**Relacionado**: [Clasificación](clasificacion) | [SDD](../../trabajar-con-ia/sdd) | [Conocimientos](../index)
+**Relacionado**: [Clasificación](clasificacion.md) | [SDD](../../trabajar-con-ia/sdd) | [Conocimientos](../index)

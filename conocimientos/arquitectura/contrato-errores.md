@@ -58,4 +58,4 @@ if errors.Is(err, pgx.ErrNoRows) {
 
 ---
 
-**Relacionado**: [Arquitectura Hexagonal](hexagonal) | [Adaptadores](../vetanas/adaptadores) | [Conocimientos](../index)
+**Relacionado**: [Arquitectura Hexagonal](hexagonal.md) | [Adaptadores](../vetanas/adaptadores) | [Conocimientos](../index)
