@@ -1,19 +1,18 @@
 # blak0p Docs
 
-## Whoami
+## Quién soy
 
-Soy Alejandro, también conocido como blak0p. Ingeniero de software especializado en arquitectura hexagonal, diseño de sistemas y desarrollo full-stack. Me apasiona construir software que sea mantenible, testeable y que realmente resuelva problemas.
+Soy Alejandro, también conocido como blak0p. Ingeniero de software desde hace años, especializado en arquitectura de sistemas, desarrollo backend con Go y frontend con TypeScript. Me apasiona construir software que sea mantenible, testeable y que realmente resuelva problemas.
 
-Este espacio es mi documentación pública: principios de arquitectura, estrategias de diseño, patrones de implementación y referencias por lenguaje. Todo lo que fui aprendiendo y sistematizando a lo largo de los años, curado para que otros puedan aprovecharlo.
+Este espacio es mi documentación pública. Acá comparto lo que fui aprendiendo: decisiones de arquitectura, patrones que funcionan, errores que cometí para que no los cometas vos, y cómo trabajo con inteligencia artificial en el día a día.
 
 ---
 
-## Navegación
+## Lo que vas a encontrar
 
-- [Arquitectura](arquitectura/index) — Principios, leyes y estructura de sistemas
-- [Estrategias](estrategias/index) — Decisiones con trade-offs y razonamiento funcional
-- [Patrones](patrones/index) — Implementaciones concretas y soluciones recurrentes
-- [Lenguajes](lenguajes/index) — Referencias, gotchas y convenciones por lenguaje
+- **Proyectos** — Las cosas que construí y cómo las pensé
+- **Conocimientos** — Lo que aprendí y quiero compartir, explicado desde el por qué
+- **Trabajar con IA** — Cómo integrar IA en el desarrollo sin perder el control
 
 ---
 
